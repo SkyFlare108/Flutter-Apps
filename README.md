@@ -1,4 +1,4 @@
-# 🥛 Milk Business Transaction App for NW Share 🥛
+# 🥛 Milk Business Transaction App for NW Share
 
 I developed a **milk trading application** using **Android Studio** and **Flutter** for NW Share, a nonprofit organization. The app enables real-time tracking of milk stock traded between customers and the organization.
 
